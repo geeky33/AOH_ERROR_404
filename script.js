@@ -1,4 +1,4 @@
-import { Network, Alchemy } from 'alchemy-sdk';
+
 
 const settings = {
     apiKey: "pO1eaEyNWEM9ZrLbhBxHlmmt2fxZC4sB",
