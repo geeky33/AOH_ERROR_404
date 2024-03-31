@@ -17,6 +17,9 @@
 
 # REDEEM PAGE:
 
+![image](https://github.com/geeky33/AOH_ERROR_404/assets/161047758/5273f4c4-4cff-4fd7-805d-f2ac8a9c8b5d)
+
+
 ![WhatsApp Image 2024-03-31 at 10 07 14_b89d572e](https://github.com/geeky33/AOH_ERROR_404/assets/141430616/51ea0fc5-0706-47e4-bc33-1a4659e359e9)
 
 
