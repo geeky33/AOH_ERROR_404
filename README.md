@@ -11,3 +11,8 @@
 
 ![image](https://github.com/geeky33/AOH_ERROR_404/assets/161047758/a133de7a-9ecc-47cf-ac23-74343523aca3)
 
+# #1 EDUCATOR PAGE:
+
+![WhatsApp Image 2024-03-31 at 10 04 47_6103716e](https://github.com/geeky33/AOH_ERROR_404/assets/141430616/bac108ac-49be-4fce-b9e9-6b55ec71de4f)
+
+
